@@ -1,0 +1,6 @@
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\bin\Release\DVLD_DataAccess.dll
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\bin\Release\DVLD_DataAccess.pdb
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\obj\Release\DVLD_DataAccess.dll
+C:\Users\jdjdh\Desktop\Abu Hadhoud\Levels\Level 19 With Abu_Hadhoud\DVLD Project Final\Project\DVLD_DataAccess\obj\Release\DVLD_DataAccess.pdb
